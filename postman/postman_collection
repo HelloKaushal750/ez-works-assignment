@@ -7,9 +7,9 @@
 	},
 	"item": [
 		{
-			"name": "New Request",
+			"name": "Details",
 			"request": {
-				"method": "GET",
+				"method": "POST",
 				"header": []
 			},
 			"response": []
